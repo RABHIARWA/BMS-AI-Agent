@@ -1,6 +1,8 @@
-# rasa-bot-bms
+# BMS-ai-agent
 
-A Rasa Pro conversational AI bot for BMS (Business Management System).
+An intelligent system that automates complaint management for Building Management Systems (BMS).  
+It combines a Rasa CALM conversational assistant with a RAG pipeline to deliver context-aware responses and resolve issues automatically or via guided employee workflows.  
+Modular and scalable, it can be adapted to other domains requiring intelligent, context-aware automation.
 
 ## Prerequisites
 
